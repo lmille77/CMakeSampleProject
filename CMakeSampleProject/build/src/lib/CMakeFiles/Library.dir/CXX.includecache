@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/loganmiller/Desktop/CMakeSampleProject/CMakeSampleProject/src/lib/lib.cpp
+vector
+-
+string
+-
+stdio.h
+-
+lib.h
+/Users/loganmiller/Desktop/CMakeSampleProject/CMakeSampleProject/src/lib/lib.h
+
+/Users/loganmiller/Desktop/CMakeSampleProject/CMakeSampleProject/src/lib/lib.h
+iostream
+-
+
